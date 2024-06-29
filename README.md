@@ -22,8 +22,11 @@ Uma experiência interativa é fundamental para manter os usuários engajados. N
 
 ## Como Jogar
 **Inicie o Jogo:** Ao carregar a página, um número secreto será gerado aleatoriamente.
+
 **Faça uma Adivinhação:** Insira um número na caixa de entrada e clique no botão "Adivinhar".
+
 **Receba Feedback:** O jogo fornecerá um feedback indicando se o número inserido é maior, menor ou igual ao número secreto.
+
 **Continue Tentando:** Continue adivinhando até acertar o número secreto.
 
 ## Deploy Vercel
